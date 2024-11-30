@@ -1,0 +1,1 @@
+This application focuses on scraping and analyzing stock-related discussions from Telegram channels. It enables sentiment analysis and prediction of stock price movements using machine learning models. Designed for desktop platforms, it empowers traders and analysts with actionable insights derived from Telegram user-generated content.  
